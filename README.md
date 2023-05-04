@@ -26,7 +26,12 @@ R | 5/10
 
 ## OUTSIDE OF GITHUB
 
+#### General
 15  
 I'm male and Christian.  
 I live in Pennsylvania.  
 My name is(ofc) Stephen. Feel free to also call me Glitch.  
+
+#### Hardware
+I have a Lenovo Legion 5i Desktop, with a NVIDIA 3090 RTX GPU and Intel i7 12th Generation CPU. I have 2 Sceptre 24' curved moniters.  
+I love to play games, owning many on Steam. I own many, of which expands every few weeks, after I've saved some money from my jobs.
