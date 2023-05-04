@@ -1,16 +1,32 @@
 ### Hi there 👋
+I'm Steve4Space, a CS nerd who's interested in creation of hardware as well.
 
-<!--
-**Steve4Space/Steve4Space** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Well..
+# ABOUT ME
 
-Here are some ideas to get you started:
+## LANGUAGES
+#### SPOKEN
+English and French
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Programming
+Out of 10. Higher the number, the more I know.
+
+C++ | 9/10  
+Go | 8/10  
+C | 7/10  
+Scratch | 6/10  
+JavaScript(and HTML/CSS, although those aren't programming languages) | 5/10  
+R | 5/10  
+
+## MOST MAJOR PROJECTS 
+
+[TimeBom](https://github.com/TheTimeBunny/TimeBom) | A game engine designed for the future  
+[Scratch++](https://github.com/Steve4Space/ScratchPlusPlus) | Rewrite of [Scratch](https://scratch.mit.edu) written in C++  
+
+
+## OUTSIDE OF GITHUB
+
+15  
+I'm male and Christian.  
+I live in Pennsylvania.  
+My name is(ofc) Stephen. Feel free to also call me Glitch.  
