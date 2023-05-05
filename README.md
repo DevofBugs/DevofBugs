@@ -17,6 +17,7 @@ C | 7/10
 Scratch | 6/10  
 JavaScript(and HTML/CSS, although those aren't programming languages) | 5/10  
 R | 5/10  
+x86 Assembly | 2/10  
 
 ## MOST MAJOR PROJECTS 
 
