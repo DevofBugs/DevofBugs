@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Steve4Space, a CS nerd who's interested in creation of hardware as well.
+I'm a Glitch, a CS nerd who's interested in creation of hardware as well.
 
 Well..
 # ABOUT ME
@@ -24,6 +24,10 @@ x86 Assembly | 2/10
 [TimeBom](https://github.com/TheTimeBunny/TimeBom) | A game engine designed for the future  
 [Scratch++](https://github.com/Steve4Space/ScratchPlusPlus) | Rewrite of [Scratch](https://scratch.mit.edu) written in C++  
 
+## FAVORITE FRAMEWORKS
+[Hugo](https://gohugo.io/)  
+[ReactJS](https://react.dev/)  
+[NodeJS](https://nodejs.org/)
 
 ## OUTSIDE OF GITHUB
 
@@ -35,7 +39,7 @@ My name is(ofc) Stephen. Feel free to also call me Glitch.
 
 #### Hardware
 I have a Lenovo Legion 5i Desktop, with a NVIDIA 3090 RTX GPU and Intel i7 12th Generation CPU. I have 2 Sceptre 24' curved moniters.  
-I love to play games, owning many on Steam. I own many, of which expands every few weeks, after I've saved some money from my jobs.
+I love to play games, owning many on Steam. I own many, of which expands every few weeks, after I've saved some money from my jobs.  
 
 # BTW
 
