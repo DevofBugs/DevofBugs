@@ -36,6 +36,7 @@ x86 Assembly | 2/10
 I'm male and Christian.  
 I live in Pennsylvania.  
 My name is(ofc) Stephen. Feel free to also call me Glitch.  
+I am aroace.  
 
 #### Hardware
 I have a Lenovo Legion 5i Desktop, with a NVIDIA 3090 RTX GPU and Intel i7 12th Generation CPU. I have 2 Sceptre 24' curved moniters.  
