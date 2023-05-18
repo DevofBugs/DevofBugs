@@ -1,5 +1,6 @@
 ### Hi there 👋
-I'm a Glitch, a CS nerd who's interested in creation of hardware as well.
+I'm a Glitch, a CS nerd who's interested in creation of hardware as well.  
+I am a furry to
 
 Well..
 # ABOUT ME
