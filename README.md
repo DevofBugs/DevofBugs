@@ -23,7 +23,7 @@ x86 Assembly | 2/10
 ## MOST MAJOR PROJECTS 
 
 [TimeBom](https://github.com/TheTimeBunny/TimeBom) | A game engine designed for the future  
-[Scratch++](https://github.com/Steve4Space/ScratchPlusPlus) | Rewrite of [Scratch](https://scratch.mit.edu) written in C++  
+[Scratch++](https://github.com/Scratch-plus-plus) | Rewrite of [Scratch](https://scratch.mit.edu) written in C++  
 
 ## FAVORITE FRAMEWORKS
 [Hugo](https://gohugo.io/)  
