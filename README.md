@@ -34,7 +34,7 @@ x86 Assembly | 2/10
 
 #### General
 15  
-I'm male and Christian.  
+I'm female and Christian.  
 I live in Pennsylvania.  
 My name is Glitch.  
 I am aroace.  
