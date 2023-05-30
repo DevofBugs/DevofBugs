@@ -36,7 +36,7 @@ x86 Assembly | 2/10
 15  
 I'm male and Christian.  
 I live in Pennsylvania.  
-My name is(ofc) Stephen. Feel free to also call me Glitch.  
+My name is Glitch.  
 I am aroace.  
 
 #### Hardware
