@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Poppy or Glitch, a CS nerd who's interested in creation of hardware as well.  
+I'm a Stephen or Glitch, a CS nerd who's interested in creation of hardware as well.  
 I am a furry to
 
 Well..
