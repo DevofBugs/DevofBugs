@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Stephen or Glitch, a CS nerd who's interested in creation of hardware as well.  
+I'm a Madeleine or Glitch, a CS nerd who's interested in creation of hardware as well.  
 I am a furry to
 
 Well..
@@ -36,7 +36,6 @@ x86 Assembly | 2/10
 15  
 I'm a Christian.  
 I live in Pennsylvania.  
-My name is Glitch.  
 I am aroace.  
 
 #### Hardware
