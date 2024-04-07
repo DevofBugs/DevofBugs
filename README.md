@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Glitch, a CS nerd who's interested in creation of hardware as well.  
+I'm Stephen, a CS nerd who's interested in creation of hardware as well.  
 
 Well..
 # ABOUT ME
@@ -32,11 +32,10 @@ x86 Assembly | 2/10
 ## OUTSIDE OF GITHUB
 
 #### General
-16  
+Born in June 13, 2007  
 I'm a Christian.  
 I live in Pennsylvania.  
-I am aroace.  
-I enjoy ballet dancing.  
+I am gay.  
 
 #### Hardware
 I have a Lenovo Legion 5i Desktop, with a NVIDIA 3090 RTX GPU and Intel i7 12th Generation CPU. I have 2 Sceptre 24' curved moniters.  
